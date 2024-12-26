@@ -1,4 +1,6 @@
-#📁 Repository Structure<br>
+# CODSOFT Internship Repository<br>
+Welcome to my CODSOFT Internship Repository! This repository contains the tasks and projects completed as part of the Python Programming Internship at CODSOFT.<br>
+📁 Repository Structure<br>
 Task 1: To-Do List ✔<br>
 Path: ./To-Do App/To-do App.py<br>
 A Python application to manage and organize tasks efficiently.<br>
