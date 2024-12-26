@@ -11,3 +11,5 @@ A simple Python calculator for basic arithmetic operations.<br>
 Task 3: Password Generator ✔<br>
 Path: ./Password generator/passgenerator.py<br>
 A Python application to generate strong and random passwords.<br>
+# Watch Demo on:
+[LinkedIn](www.linkedin.com/in/aditya-pal2005)
